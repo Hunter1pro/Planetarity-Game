@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 656fbb6a4ffb1274c87abafcdc067b05, type: 3}
+  m_Name: PlayerData4
+  m_EditorClassIdentifier: 
+  planetMaterial: {fileID: 2100000, guid: e1733401889b1084d9b6181a00a857a6, type: 2}
+  rocketDatas:
+  - {fileID: 11400000, guid: 5ddb9baa33ab171429cfea0a63c891d4, type: 2}
+  - {fileID: 11400000, guid: 5516397a5db31624d8caae3dcbab03eb, type: 2}
+  - {fileID: 11400000, guid: 449a53f72cc48ce4ca889f1b3c913b50, type: 2}

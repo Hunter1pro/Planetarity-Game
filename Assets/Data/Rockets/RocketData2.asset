@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94c3eb25d8da534e88617d3c22b2828, type: 3}
+  m_Name: RocketData2
+  m_EditorClassIdentifier: 
+  speed: 4.5
+  damage: 40.1
+  rocketPrefab: {fileID: 114998411188315074, guid: 929603e19413baa49a1c5bbba8753c9d,
+    type: 3}
+  cooldown: 40
