@@ -1,5 +1,3 @@
-# Planetarity_v1.2
+# Planetarity Game
 
 Auth: Popov Pavel
-
-UnComplite: SaveSystem - reason: TimeLeft
